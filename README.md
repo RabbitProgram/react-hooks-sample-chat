@@ -6,30 +6,26 @@
 
 # セットアップ
 ## サーバー側
-
 ```
 cd chat-server
-yarn install
+npm i
 ```
 
 ## クライアント側
-
 ```
 cd chat-client
-yarn install
+npm i
 ```
 
 # 実行
 ## サーバー側
-
 ```
 cd chat-server
-node app.js
+node app.ts
 ```
 
 ## クライアント側
-
 ```
 cd chat-client
-yarn start
+npm start
 ```
